@@ -31,8 +31,10 @@ The features used include credit score, age, tenure, balance, number of products
 
 ## Model Evaluation:
 
-## Accuracy: The model was evaluated using the accuracy score on the test set, yielding 81.04% accuracy.
-## Recall: The recall score, which measures the proportion of actual churned customers that were correctly identified, was 60.38%.
+## Accuracy: 
+The model was evaluated using the accuracy score on the test set, yielding 81.04% accuracy.
+## Recall: 
+The recall score, which measures the proportion of actual churned customers that were correctly identified, was 60.38%.
 
 ## Result:
 The logistic regression model could predict customer churn with an accuracy of 81%, meaning the model correctly classified 81% of the test set.
